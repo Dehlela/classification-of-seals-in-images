@@ -41,3 +41,6 @@ Logistic Regression model with L2 regularization, giving
 # Commented Code in the Program
 A lot of the code has been commented out due to requirements from the coursework supervisor. 
 They involve figures, different subsets of data and different training algorithms with respect to these subsets.
+
+# Data for the program
+The data used for the program has not been uploaded since it exceeds upload limit.
